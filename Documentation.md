@@ -5,7 +5,7 @@
 Ce document a pour but de donner des recommandations pour mettre en place un système de journalisation sécurisé.  
 L’idée est d’adapter ces conseils en fonction des risques et des besoins spécifiques de chaque système d’information.
 
-## Points Principau
+## Points Principaux
 
 ### Journalisation globale
 
@@ -69,3 +69,13 @@ Pour cela, plusieurs outils sont utiles :
 La journalisation est un élément indispensable pour bien sécuriser un système informatique.  
 Il faut y aller progressivement, en commençant petit, puis en complétant.  
 Enfin, la collaboration entre les équipes qui s’occupent des logs et celles qui détectent les menaces est très importante pour que tout soit bien coordonné.
+
+---
+
+### Ce qui va être fait : 
+- Tous les points de la journalisation globale.
+- Va être stocké : le type, la date, l'utilisateur et le message.
+- Les droits seront gérés selon un role admin et un role user.
+
+### Ce qui ne va pas être fait :
+- La sécurité plus avancée, par manque de temps.
