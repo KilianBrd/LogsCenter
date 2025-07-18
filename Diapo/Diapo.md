@@ -6,6 +6,8 @@ Titre: LogsCenter
 Description: Log
 Auteur: ~
 URL: http://logscenter.fabienmcl.fr
+Lien Repository : https://github.com/KilianBrd/LogsCenter
+                  https://github.com/KilianBrd/LogsCenterWeb
 ---
 
 ---
