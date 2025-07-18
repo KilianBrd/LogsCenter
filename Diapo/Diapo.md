@@ -6,7 +6,8 @@ Titre: LogsCenter
 Description: Log
 Auteur: ~
 URL: http://logscenter.fabienmcl.fr
-Image: https://marp.app/og-image.jpg
+Lien Repository : https://github.com/KilianBrd/LogsCenter
+                  https://github.com/KilianBrd/LogsCenterWeb
 ---
 
 ---
@@ -23,12 +24,14 @@ section {
 - Objectif  
 - Fonctions Principales 
 - Critères de Performances  
-- Technique de Contraintes  
+- Technique de Contraintes 
+- Tableau des tâches 
 - Livrables  
-- Matériel et Logiciel  
+- Matériel et Logiciel 
+- Schéma Synoptique 
 - Diagramme Cas d'utilisation  
-- Diagramme de bloc 
-- Réseau   
+- Diagramme de bloc   
+- Plan de Site
 - Maquette
 
 ---
@@ -101,6 +104,12 @@ section.besoin  {
 
 ---
 
+# Tableau des tâches 
+
+![alt text](image-13.png)
+
+---
+
 # Livrable :
 
 - Deux Machines Virtuelles(Application et LogsCenter)
@@ -121,7 +130,10 @@ section.besoin  {
 - Github
 - Mysql
 - Visual Studio Code 
+--- 
+# Schéma Sypnotique
 
+https://github.com/KilianBrd/LogsCenter/blob/main/Sch%C3%A9ma/Synoptique.png
 
 --- 
 
@@ -138,4 +150,15 @@ section.besoin  {
 
 ---
 
-# Réseau :
+# Plan de Site :
+
+https://github.com/KilianBrd/LogsCenter/blob/main/Maquette/PlanSite.md
+
+
+
+
+---
+
+# Maquette :
+
+https://github.com/KilianBrd/LogsCenter/blob/main/Maquette/Login-by-super-pdf.pdf
