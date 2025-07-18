@@ -27,8 +27,8 @@ section {
 - Livrables  
 - Matériel et Logiciel  
 - Diagramme Cas d'utilisation  
-- Diagramme de bloc 
-- Réseau   
+- Diagramme de bloc   
+- Plan de Site
 - Maquette
 
 ---
@@ -138,4 +138,15 @@ section.besoin  {
 
 ---
 
-# Réseau :
+# Plan de Site :
+
+https://github.com/KilianBrd/LogsCenter/blob/main/Maquette/PlanSite.md
+
+
+
+
+---
+
+# Maquette :
+
+https://github.com/KilianBrd/LogsCenter/blob/main/Maquette/Login-by-super-pdf.pdf
